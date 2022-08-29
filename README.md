@@ -4,3 +4,5 @@ Quizzler is an app which offers the users the quiz that includes 12 questions. I
 <img width="354" alt="quiz1" src="https://user-images.githubusercontent.com/92036779/187265424-794dfce3-f491-4701-a321-f62b3c072220.png">
 
 
+<img width="353" alt="quiz3" src="https://user-images.githubusercontent.com/92036779/187265510-cce8acec-138f-490a-880a-eaaf18472a35.png">
+
